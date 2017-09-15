@@ -1,0 +1,1 @@
+const description = "this is the first js file"
